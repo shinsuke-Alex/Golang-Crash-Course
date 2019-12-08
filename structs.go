@@ -1,7 +1,7 @@
 package main
 
 import ("fmt"
-		"strconv")
+"strconv")
 
 // Define person struct
 type Person struct{
