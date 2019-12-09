@@ -13,9 +13,9 @@ In this crash course we will get started with the Go programming language. There
 ・Jake Wright</br>
 https://www.youtube.com/watch?v=LvgVSSpwND8&t=219s</br>
 
-https://github.com/jakewright/tutorials/tree/master/go/02-go-concurrency
+https://github.com/jakewright/tutorials/tree/master/go/02-go-concurrency</br>
 
 
 ・上田 拓也 氏</br>
-Think Japan IBM Code Day: [DF-3] なぜ今Goなのか？
-https://www.youtube.com/watch?v=SjfYHqS7eo4
+Think Japan IBM Code Day: [DF-3] なぜ今Goなのか？</br>
+https://www.youtube.com/watch?v=SjfYHqS7eo4</br>
