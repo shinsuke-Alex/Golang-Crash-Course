@@ -1,6 +1,6 @@
 # Golang-Crash-Course
 Golang学習用</br>
-下記のレクチャーより基礎を学ぶ。
+下記のレクチャーより基礎学んだ。
 
 
 ・Traversy Media</br>
@@ -14,3 +14,8 @@ In this crash course we will get started with the Go programming language. There
 https://www.youtube.com/watch?v=LvgVSSpwND8&t=219s</br>
 
 https://github.com/jakewright/tutorials/tree/master/go/02-go-concurrency
+
+
+・上田 拓也 氏</br>
+Think Japan IBM Code Day: [DF-3] なぜ今Goなのか？
+https://www.youtube.com/watch?v=SjfYHqS7eo4
